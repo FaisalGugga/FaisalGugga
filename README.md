@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Faisal 👋
+# Hi, I'm Faisal 🤡
 
 ### AI Engineer | Backend Developer | Software Engineer
 
